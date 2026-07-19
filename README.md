@@ -1,6 +1,3 @@
-Edited README.md
-
-```markdown
 <!-- 
 📌 GitHub Profile README V4 - Custom Premium Design for Aygen Yıldırım
 👉 To use this README:
@@ -103,4 +100,3 @@ Applying discipline to every codebase:
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-```
